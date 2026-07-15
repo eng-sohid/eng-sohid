@@ -1,7 +1,7 @@
 <!-- ====================== BANNER ====================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="MD SOHID MONDOL Banner" width="100%">
+ <img src="https://raw.githubusercontent.com/eng-sohid/eng-sohid/main/assets/banner.png" alt="MD SOHID MONDOL Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0A66C2;">MD SOHID MONDOL</span></h1>
