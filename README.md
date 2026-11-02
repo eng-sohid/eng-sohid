@@ -116,15 +116,18 @@ Explore my other projects and experiments on GitHub.
 
 ---
 
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eng-sohid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=eng-sohid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sohid&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eng-sohid&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=eng-sohid&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=eng-sohid&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -134,9 +137,10 @@ Explore my other projects and experiments on GitHub.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eng-sohid&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://ghchart.rshah.org/409ba5/eng-sohid" alt="Sohid's GitHub Contribution Graph" />
 
 </div>
+
 
 ---
 
