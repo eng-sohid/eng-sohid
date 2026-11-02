@@ -82,7 +82,7 @@ A full-stack web application focused on building a modern book-related platform.
 - Frontend and backend development
 - Practical full-stack implementation
 
-🔗 **Live Demo:** Coming Soon
+🔗 **Live Demo: https://book-nook-theta.vercel.app
 
 💻 **Repositories:**
 - [Frontend](https://github.com/eng-sohid/Book-Nook)
@@ -100,7 +100,7 @@ A full-stack travel platform built with separate frontend and backend implementa
 - Full-stack application development
 - Frontend and backend integration
 
-🔗 **Live Demo:** https://wanderlust-omega-woad.vercel.app/
+🔗 **Live Demo:** https://wanderlust-omega-woad.vercel.app
 
 💻 **Repositories:** Coming Soon
 
