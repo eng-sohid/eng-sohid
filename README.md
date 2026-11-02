@@ -102,8 +102,8 @@ A full-stack travel platform built with separate frontend and backend implementa
 
 🔗 **Live Demo:** https://wanderlust-omega-woad.vercel.app
 
-💻 **Repositories:** Coming Soon
-
+💻 **Repositories:  [Frontend]https://github.com/eng-sohid/Wander-lust-Frontend
+                    [Backend]https://github.com/eng-sohid/Wander-lust-Backend
 ---
 
 ### 03. More Projects
@@ -168,7 +168,7 @@ Explore my other projects and experiments on GitHub.
 
 **Email:** sohid10960@gmail.com
 
-**Location:** Bangladesh 🇧🇩
+**Location:** Bangladesh 🇧🇩 Dhaka, Mirpur DOHS.
 
 </div>
 
